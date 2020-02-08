@@ -1,0 +1,29 @@
+{
+  "name": "vkjsapi",
+  "version": "1.0.0",
+  "description": "vkJSapi is a small nodejs library for working with api.vk.com.",
+  "main": "vkJSapi.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VerZsuT/vkJSapi.git"
+  },
+  "keywords": [
+    "vk",
+    "api",
+    "vkjsapi",
+    "vkapi"
+  ],
+  "author": "VerZsuT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VerZsuT/vkJSapi/issues"
+  },
+  "homepage": "https://github.com/VerZsuT/vkJSapi#readme"
+}
