@@ -2,6 +2,7 @@
   "name": "vkjsapi",
   "version": "1.0.0",
   "description": "vkJSapi is a small nodejs library for working with api.vk.com.",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "main": "vkJSapi.js",
   "dependencies": {
     "request": "^2.88.0"
